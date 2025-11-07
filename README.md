@@ -1,58 +1,92 @@
-## hey there! 
+## Hey there! 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving Emoji">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving Emoji">
+**I'm Vinay Patil**, a Certified Ethical Hacker (CEH), DevOps Engineer, and Cybersecurity Professional from India.  
+I’m passionate about building secure systems, automating DevOps workflows, and developing tools that help defend against cyber threats.
 
-**I'm Vinay Patil,** a Certified Ethical Hacker and Cybersecurity professional from India. I'm passionate about securing digital landscapes and helping organizations mitigate cyber threats.
-
-**Here's a glimpse into my work and expertise:**
+---
 
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Animated Code Snippet">
 
-### About Me ️‍♀️
+### 🧠 About Me
 
-* **I'm a Certified Ethical Hacker (CEH):** I possess the skills and knowledge to identify and exploit vulnerabilities in systems, ethically helping organizations improve their security posture.
-* **Experienced in Penetration Testing:** I have experience in conducting penetration testing engagements, uncovering vulnerabilities, and recommending remediation strategies.
-* **Strong foundation in DevOps:** As part of my B.Tech specialization, I've honed my skills in automating infrastructure deployments and security processes, streamlining security workflows.
+- 🎯 **Certified Ethical Hacker (CEH):** Skilled in identifying and exploiting vulnerabilities ethically to strengthen system security.  
+- 🔍 **Penetration Testing:** Experienced in discovering, reporting, and remediating vulnerabilities across web and network environments.  
+- ⚙️ **DevOps Enthusiast:** Adept at integrating security with automation using tools like Docker, Jenkins, and Terraform.  
+- 🛠️ **Tools & Platforms I Use:** Kali Linux · VeraCrypt · MobSF · Git · AWS · Proxychains · Bash scripting.  
+- 🧩 **Research Project:** Developing a YARA signature generation and search engine to accelerate malware detection.
 
-**Beyond Security:**
+---
 
-* **Exploring Technical Content Writing:** I'm always learning and sharing my knowledge by exploring technical content writing.
-* **⚡ In my free time, I love** solving problems on platforms like GeeksforGeeks and staying up-to-date with the latest cybersecurity trends.
+### ⚡ Beyond Security
 
-**Feel free to reach out!**
+- ✍️ **Technical Writing:** I enjoy simplifying complex topics and writing blogs/tutorials on cybersecurity and DevOps.  
+- 💻 **Problem Solving:** Active on GeeksforGeeks and CTF-style challenges to sharpen analytical skills.  
+- 🧰 **Tool Builder:** I create small utilities in Bash and Python to automate security and DevOps workflows.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Vinay-Patil-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-patil-devops-engineering)
+---
 
-### Skills and Expertise 
+### 💼 My Work & Contributions
 
-This section showcases my diverse skillset using clear headings and icons:
+- 🧑‍💻 **GitHub:** [vinaypatil-132](https://github.com/vinaypatil-132)  
+- 🌐 **Portfolio:** [vinaypatil-132.github.io/Portfolio](https://vinaypatil-132.github.io/Portfolio/)
 
-**Security:**
+---
 
-* Penetration Testing
-* Vulnerability Assessment & Management
-* Security Incident Response
-* Secure Coding Practices
+### 🧰 Skills & Expertise
 
-**DevOps:**
+#### 🛡️ Security
+- Penetration Testing & Red Teaming (Basics)  
+- Vulnerability Assessment & Management  
+- Malware Detection (YARA Rules)  
+- Android App Static Analysis (MobSF)  
+- Secure Coding Practices  
 
-* CI/CD Pipelines
-* Infrastructure Automation
-* Configuration Management
+#### ⚙️ DevOps
+- CI/CD Pipelines (Jenkins)  
+- Containerization (Docker)  
+- Infrastructure Automation (Terraform / Bash)  
+- Cloud (AWS EC2, Networking, IAM)
 
-**(Replace the placeholder icons with Font Awesome icons. Add more skills relevant to you)**
+#### 🧑‍💻 Programming & Scripting
+- Bash scripting  
+- Python (intermediate)
 
-### My Contributions 
+---
 
-* **[Link to your GitHub profile]** to explore my projects and contributions.
-* **[Link to your portfolio website (optional)]** to showcase your work in detail.
+### 🚀 Projects & Highlights
 
-### Blog Posts ✍️
+- 🧠 **Malware Detection Framework:** Automating YARA signature generation & scanning for large datasets.  
+- 🩺 **Doctor Portfolio Website:** Professional, mobile-responsive site for Dr. Dheeresh KH built with Tailwind CSS.  
+- 💬 **Chat Application with Admin Panel:** Real-time responsive web app using Tailwind and Node.js.  
+- 🧰 **Security Tools (GitHub):** Custom bash and Python utilities for pentesting and automation.
 
-**If you have blog posts, include them here:**
+*(Add repo links once public)*
 
-* [Title of blog post 1](link to blog post)
-* [Title of blog post 2](link to blog post)
-* ... (Add more blog posts)
+---
 
-**Feel free to customize this template to reflect your unique personality and skills. Keep it concise and visually appealing!**
+### ✍️ Blog Posts
+
+If you write or plan to post content on DevOps/Cybersecurity, you can list them here:  
+- [YARA Rules: Writing Efficient Malware Signatures](#)  
+- [Static Analysis with MobSF](#)  
+- [Integrating Security into CI/CD Pipelines](#)
+
+---
+
+### 🌐 Connect with Me
+
+[![Linkedin Badge](https://img.shields.io/badge/-Vinay_Patil-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-patil-devops-engineering)  
+[![GitHub Badge](https://img.shields.io/badge/-Vinay_Patil-black?style=flat&logo=github&logoColor=white)](https://github.com/vinaypatil-132)  
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-darkgreen?style=flat&logo=web&logoColor=white)](https://vinaypatil-132.github.io/Portfolio/)
+
+---
+
+### 🧾 Summary
+
+> “Security isn’t just about defense — it’s about awareness, precision, and continuous learning.”
+
+I’m always open to collaborating on **DevSecOps**, **penetration testing**, and **automation projects**.  
+Let’s build something meaningful together 🚀
+
+---
